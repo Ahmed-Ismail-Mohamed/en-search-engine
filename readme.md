@@ -15,3 +15,5 @@ converted using tfidf with default parameters and for better matching you better
 
 # similarity
 the similarity is calculated using cosine similarity.
+
+if you are interested in arabic text you can visit https://github.com/Ahmed-Ismail-Mohamed/arabic-search-engine
